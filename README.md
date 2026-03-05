@@ -45,3 +45,9 @@ mvn spring-boot:run
 ```bash
 curl http://localhost:8080/api/productos
 ```
+
+## Integrantes
+
+- Samuel Acero Garcia
+- Deivid Nicolas Urrea Lara
+- Samuel Esteban López Huertas
